@@ -1,2 +1,2 @@
 # ReactiveZonageMicroService
-reactive zebFlux project
+reactive webFlux project
